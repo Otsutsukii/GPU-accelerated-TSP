@@ -1,0 +1,113 @@
+the initial random solution
+------------------------------------------
+best score 5711
+best iteration 1979
+best iteration by 3opt 0
+number of local minima 439
+improved times 56
+3 opt improved times 0
+------------------------------------------
+0-12-1-39-10-34-23-2-27-19-33-41-31-24-6-13-15-35-29-25-47-40-22-28-26-20-42-14-17-8-36-16-9-49-7-4-45-43-44-11-5-18-46-3-37-21-30-32-48-38
+--> 5711 km
+the initial random solution
+------------------------------------------
+best score 5649
+best iteration 1239
+best iteration by 3opt 0
+number of local minima 442
+improved times 59
+3 opt improved times 0
+------------------------------------------
+0-12-1-39-10-34-2-23-27-19-33-41-31-24-6-13-15-35-29-25-47-40-22-28-26-20-42-14-17-8-36-16-9-49-7-4-45-43-44-11-5-18-46-3-37-21-32-30-48-38
+--> 5649 km
+the initial random solution
+------------------------------------------
+best score 5738
+best iteration 995
+best iteration by 3opt 0
+number of local minima 468
+improved times 49
+3 opt improved times 0
+------------------------------------------
+0-12-21-37-1-39-10-34-2-23-27-19-33-41-31-24-6-35-13-15-29-25-47-40-22-28-26-20-42-14-17-8-36-16-9-49-7-4-45-43-44-11-5-18-46-3-30-32-48-38
+--> 5738 km
+the initial random solution
+------------------------------------------
+best score 5710
+best iteration 1215
+best iteration by 3opt 0
+number of local minima 468
+improved times 58
+3 opt improved times 0
+------------------------------------------
+0-12-1-39-10-34-23-2-27-19-33-41-31-24-6-15-13-35-29-25-47-40-22-28-26-20-14-42-17-8-36-16-9-49-7-4-45-43-44-11-5-18-46-3-37-21-32-30-48-38
+--> 5710 km
+the initial random solution
+------------------------------------------
+best score 5691
+best iteration 46
+best iteration by 3opt 0
+number of local minima 461
+improved times 47
+3 opt improved times 0
+------------------------------------------
+0-12-1-34-2-23-27-19-33-41-31-24-6-35-29-15-13-10-39-47-25-40-22-28-26-20-42-14-17-8-36-16-9-49-7-4-45-43-44-11-5-18-46-3-37-21-32-30-48-38
+--> 5691 km
+the initial random solution
+------------------------------------------
+best score 5691
+best iteration 753
+best iteration by 3opt 0
+number of local minima 459
+improved times 47
+3 opt improved times 0
+------------------------------------------
+0-12-1-34-2-23-27-19-33-41-31-24-6-35-29-15-13-10-39-47-25-40-22-28-26-20-42-14-17-8-36-16-9-49-7-4-45-43-44-11-5-18-46-3-37-21-32-30-48-38
+--> 5691 km
+the initial random solution
+------------------------------------------
+best score 5686
+best iteration 1584
+best iteration by 3opt 0
+number of local minima 440
+improved times 57
+3 opt improved times 0
+------------------------------------------
+0-12-1-39-10-34-2-23-27-19-33-41-31-24-6-13-15-35-29-25-47-40-22-28-26-20-42-14-17-8-36-16-9-49-7-4-45-43-44-11-5-18-46-3-37-21-30-32-48-38
+--> 5686 km
+the initial random solution
+------------------------------------------
+best score 5671
+best iteration 885
+best iteration by 3opt 0
+number of local minima 446
+improved times 46
+3 opt improved times 0
+------------------------------------------
+0-1-39-10-34-2-23-27-19-33-41-31-24-6-35-29-13-15-25-47-40-22-28-26-20-42-14-17-8-36-16-9-49-7-4-45-43-44-11-5-18-46-3-37-12-21-32-30-48-38
+--> 5671 km
+the initial random solution
+------------------------------------------
+best score 5649
+best iteration 523
+best iteration by 3opt 0
+number of local minima 441
+improved times 49
+3 opt improved times 0
+------------------------------------------
+0-12-1-39-10-34-2-23-27-19-33-41-31-24-6-13-15-35-29-25-47-40-22-28-26-20-42-14-17-8-36-16-9-49-7-4-45-43-44-11-5-18-46-3-37-21-32-30-48-38
+--> 5649 km
+the initial random solution
+------------------------------------------
+best score 5681
+best iteration 1399
+best iteration by 3opt 0
+number of local minima 435
+improved times 55
+3 opt improved times 0
+------------------------------------------
+0-12-1-39-10-34-2-23-27-19-33-41-31-24-6-35-15-13-29-25-47-40-22-28-26-20-14-42-17-8-36-16-9-49-7-4-45-43-44-11-5-18-46-3-37-21-32-30-48-38
+--> 5681 km
+best score mean 5687.7
+best iterations mean 1061.8
+local minima mean 449.9
